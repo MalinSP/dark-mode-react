@@ -1,4 +1,4 @@
-# Dark-ligt Mode React
+# Dark-light Mode React
 
 To start project
 
